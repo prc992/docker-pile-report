@@ -1,2 +1,2 @@
 # docker-pile-report
-It contains the BiocManager R packages for the pile up report for the cfPipeline
+It contains the BiocManager R packages  ( rtracklayer, Gviz , org.Hs.eg.db) for the pile up report for the cfChipPipeline
